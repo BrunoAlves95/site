@@ -3,8 +3,8 @@ body{
     font-family: sans-serif;
 }
 header nav{
-    font-size:large;
-    text-align: center;
+   display: flex;
+   justify-content: space-around;
     
 }
 header h1{
